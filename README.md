@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=YOUR_NAME&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MrTOM&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=fff" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Tech+Enthusiast;Building+Amazing+Projects;Let's+Create+Something+Great!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Python+Enthusiast;Building+Amazing+Projects;Let's+Create+Something+Great!)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,14 +11,15 @@
 ### 👨‍💻 About Me
 
 \`\`\`javascript
-const developer = {
-    name: "Your Name",
+const MrTOM = {
+    realName: "Sofiane",
+    nickname: "MrTOM",
     role: "Full-Stack Developer",
     code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Styled Components"]
+            js: ["React", "Next.js", "Redux"],
+            css: ["Tailwind", "Bootstrap", "Material-UI"]
         },
         backEnd: {
             js: ["Node.js", "Express"],
@@ -28,8 +29,8 @@ const developer = {
         devOps: ["Docker", "AWS", "Git", "GitHub Actions"],
         tools: ["VS Code", "Postman", "Figma"]
     },
-    currentFocus: "Building scalable applications",
-    funFact: "I turn coffee into code ☕"
+    currentFocus: "Building scalable full-stack applications",
+    funFact: "I debug with console.log() and I'm proud of it 😎"
 };
 \`\`\`
 
@@ -58,12 +59,12 @@ const developer = {
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&border_radius=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALLAMEALLAME2020&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALLAMEALLAME2020&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&border_radius=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=Contribution%20Graph&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true&radius=8" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALLAMEALLAME2020&custom_title=Contribution%20Graph&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true&radius=8" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -71,7 +72,7 @@ const developer = {
 ### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ALLAMEALLAME2020&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
 </div>
 
 ---
@@ -80,9 +81,9 @@ const developer = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ALLAMEALLAME2020/ALLAMEALLAME2020/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ALLAMEALLAME2020/ALLAMEALLAME2020/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/ALLAMEALLAME2020/ALLAMEALLAME2020/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -107,7 +108,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: Platane/snk@v3
         with:
-          github_user_name: YOUR_USERNAME
+          github_user_name: ALLAMEALLAME2020
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -129,11 +130,11 @@ Enable Actions permissions in Settings → Actions → General
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_HANDLE)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_ID)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sofiane-allame)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sofiane_allame)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/t0m.dev)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/t0m.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ALLAMEALLAME2020)
 
 </div>
 
@@ -153,9 +154,9 @@ Enable Actions permissions in Settings → Actions → General
 
 ### 📈 Profile Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6366f1&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=6366f1)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?label=Total+Stars&style=flat-square&color=6366f1)
+![Profile Views](https://komarev.com/ghpvc/?username=ALLAMEALLAME2020&color=6366f1&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/ALLAMEALLAME2020?label=Followers&style=flat-square&color=6366f1)
+![Stars](https://img.shields.io/github/stars/ALLAMEALLAME2020?label=Total+Stars&style=flat-square&color=6366f1)
 
 </div>
 
@@ -165,6 +166,6 @@ Enable Actions permissions in Settings → Actions → General
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=75&animation=fadeIn&fontColor=fff" />
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by MrTOM (Sofiane)**
 
 </div>
