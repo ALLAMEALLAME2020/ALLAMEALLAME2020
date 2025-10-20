@@ -1,16 +1,20 @@
+<img src="./profile-banner.gif" width="100%" alt="Profile Banner" />
+
 <div align="center">
 
-# Sofiane - Full-Stack Developer
+# Sofiane
 
 **Full-Stack Engineer | JavaScript & Python Specialist | Software Architecture**
 
-[LinkedIn](#) • [Portfolio](#) • [Email](#)
+![Profile Views](https://komarev.com/ghpvc/?username=ALLAMEALLAME2020&label=Profile%20Views&color=0E7490&style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/ALLAMEALLAME2020?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/ALLAMEALLAME2020?style=social)
 
 </div>
 
 ---
 
-## Professional Overview
+## About Me
 
 I am a full-stack developer with extensive experience in designing and implementing scalable web applications. My expertise spans modern JavaScript frameworks, backend systems, and cloud infrastructure, with a focus on clean code, performance optimization, and maintainable architecture.
 
@@ -24,27 +28,30 @@ const Developer = {
 };
 \`\`\`
 
+- **Current Focus:** Full-stack development with modern frameworks
+- **Expertise:** JavaScript, TypeScript, Python, React, Node.js
+- **Contact:** [Email](mailto:your.email@example.com)
+- **Learn More:** [LinkedIn](https://linkedin.com/in/yourprofile) • [Portfolio](https://yourportfolio.com)
+
 ---
 
-## Technical Expertise
+## Technical Stack
 
-### Frontend Technologies
+### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-### Backend Technologies
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Data & Infrastructure
+### Databases & Infrastructure
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -52,33 +59,33 @@ const Developer = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Development Tools
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## Performance Metrics
+## GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALLAMEALLAME2020&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALLAMEALLAME2020&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&text_color=E6EDF3)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALLAMEALLAME2020&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALLAMEALLAME2020&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&text_color=E6EDF3)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALLAMEALLAME2020&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALLAMEALLAME2020&theme=nord&hide_border=true&background=0D1117)
 
 </div>
 
 ---
 
-## Recognition
+## Achievements
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ALLAMEALLAME2020&theme=tokyonight&no-frame=true&row=1&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ALLAMEALLAME2020&theme=nord&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -94,13 +101,14 @@ const Developer = {
 
 ---
 
-## Professional Links
+## Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=globe&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0E7490?style=for-the-badge&logo=globe&logoColor=white)](https://yourportfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 </div>
 
@@ -108,6 +116,8 @@ const Developer = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ALLAMEALLAME2020&color=6366F1&style=flat-square)
+**"Code is the bridge between imagination and reality."**
+
+![Profile Views](https://komarev.com/ghpvc/?username=ALLAMEALLAME2020&color=0E7490&style=flat-square)
 
 </div>
