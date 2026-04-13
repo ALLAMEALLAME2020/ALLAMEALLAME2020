@@ -22,9 +22,10 @@
 
 ## About
 
-Self-taught developer from Morocco, focused on back-end development and cybersecurity. I build things, break things, and figure out how both work. Currently sharpening my skills in ethical hacking alongside web development.
 
-I value discipline and consistency over shortcuts — the only way to actually get good at this stuff.
+Self-taught developer from Morocco, focused on back-end development and cybersecurity. I work on building and testing systems to better understand how they function and where weaknesses can appear.
+
+Currently improving my skills in ethical hacking alongside web development, while continuing to strengthen my fundamentals. I prefer learning through practice and steady progress rather than relying on shortcuts.
 
 ---
 
@@ -41,6 +42,7 @@ I value discipline and consistency over shortcuts — the only way to actually g
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 **Security & Networking**
 
