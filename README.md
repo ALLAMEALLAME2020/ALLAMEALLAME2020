@@ -81,9 +81,3 @@ Currently improving my skills in ethical hacking alongside web development, whil
 | 🔐 TryHackMe | [sofiane.dev](https://tryhackme.com/p/sofiane.dev) |
 
 ---
-
-<div align="center">
-
-*"Discipline beats motivation every time."*
-
-</div>
