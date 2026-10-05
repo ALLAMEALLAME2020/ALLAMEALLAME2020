@@ -78,6 +78,6 @@ Currently improving my skills in ethical hacking alongside web development, whil
 |----------|------|
 | 🌐 Portfolio | [sofiane-allame1.web.app](https://sofiane-allame1.web.app) |
 | 📸 Instagram | [@t0m.dev](https://www.instagram.com/t0m.dev/) |
-| 🔐 TryHackMe | [sofiane.dev](https://tryhackme.com/p/sofiane.dev) |
+| 🔐 TryHackMe | [t0m.dev](https://tryhackme.com/p/t0m.dev) |
 
 ---
